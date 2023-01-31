@@ -1,0 +1,3 @@
+[submodule "fpga"]
+	path = fpga
+	url = git@github.com:muwyse/black-parrot-fpga.git
