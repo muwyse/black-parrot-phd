@@ -7,3 +7,6 @@
 [submodule "black-parrot-subsystems"]
 	path = black-parrot-subsystems
 	url = git@github.com:black-parrot-hdk/black-parrot-subsystems.git
+[submodule "zynq-parrot"]
+	path = zynq-parrot
+	url = git@github.com:black-parrot-hdk/zynq-parrot.git
