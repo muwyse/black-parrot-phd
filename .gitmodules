@@ -10,3 +10,6 @@
 [submodule "zynq-parrot"]
 	path = zynq-parrot
 	url = git@github.com:black-parrot-hdk/zynq-parrot.git
+[submodule "black-parrot"]
+	path = black-parrot
+	url = git@github.com:black-parrot/black-parrot.git
