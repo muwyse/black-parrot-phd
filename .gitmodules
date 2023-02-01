@@ -4,3 +4,6 @@
 [submodule "bsg_fpga"]
 	path = bsg_fpga
 	url = git@github.com:muwyse/bsg_fpga.git
+[submodule "black-parrot-subsystems"]
+	path = black-parrot-subsystems
+	url = git@github.com:black-parrot-hdk/black-parrot-subsystems.git
