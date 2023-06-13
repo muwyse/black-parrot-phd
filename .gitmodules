@@ -16,3 +16,6 @@
 [submodule "black-parrot-sdk"]
 	path = black-parrot-sdk
 	url = git@github.com:black-parrot-sdk/black-parrot-sdk.git
+[submodule "black-parrot-tools"]
+	path = black-parrot-tools
+	url = git@github.com:black-parrot/black-parrot-tools.git
