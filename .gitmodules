@@ -20,3 +20,6 @@
 	path = dma_ip_drivers
 	url = git@github.com:muwyse/dma_ip_drivers.git
 	branch = vcu128
+[submodule "black-parrot-sdk"]
+	path = black-parrot-sdk
+	url = git@github.com:black-parrot-sdk/black-parrot-sdk.git
