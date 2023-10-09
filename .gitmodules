@@ -23,3 +23,7 @@
 [submodule "black-parrot-sdk"]
 	path = black-parrot-sdk
 	url = git@github.com:black-parrot-sdk/black-parrot-sdk.git
+[submodule "XilinxBoardStore"]
+	path = XilinxBoardStore
+	url = git@github.com:Xilinx/XilinxBoardStore.git
+	branch = 2022.2
