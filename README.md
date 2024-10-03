@@ -14,6 +14,20 @@ The provided design requires Vivado 2019.1 and targets a VCU128 (vu37p ES1) boar
 However, the approach can be easily adopted to any FPGA device and board as all
 interfaces to the BlackParrot IP blocks are AXI4.
 
+## Getting Started
+
+```
+make checkout
+make setup
+```
+
+Building tools, the SDK, and programs can be parallelized in `make setup` by setting the
+`MAKE_CORES` flag on the command line. e.g.,:
+
+```
+make setup MAKE_CORES=32
+```
+
 -----
 
 <p align="center">Copyright&copy; 2023-2024 University of Washington</p>
